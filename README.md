@@ -13,4 +13,5 @@ Technology:Django,html,css,sqlite3
 ![image](https://user-images.githubusercontent.com/64465272/126061599-ca98293f-7bc3-46db-aced-0896847796b4.png)
 # For deleting the contact if we click on delete button
 ![image](https://user-images.githubusercontent.com/64465272/126061614-555bfe63-ce2a-4e40-b69b-3d631f4b4d63.png)
+
 After confirming the contact will be deleted
